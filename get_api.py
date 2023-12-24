@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-a
 # This file is auto-generated, don't edit it. Thanks.
 import os
 import sys
